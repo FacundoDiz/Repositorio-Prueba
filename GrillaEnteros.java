@@ -7,6 +7,8 @@ public class GrillaEnteros{
 
     private int[][] S;
     private String s;
+    private int e,a;
+    private char u;
 
     // Constructores
 
