@@ -6,10 +6,7 @@ public class GrillaEnteros{
     // Atributos de instancia
 
     private int[][] S;
-    private String s;
-    private int e,a;
-    private char u;
-
+    
     // Constructores
 
     public GrillaEnteros(int n, int m){
